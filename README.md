@@ -1,5 +1,5 @@
 # CaseLab_CenzorApp
-Простое веб-приложение для цензурирования неподходящих слов в предложении с использованием HTML, CSS и JavaScript.
+Простое веб-приложение для цензурирования слов в предложении с использованием HTML, CSS и JavaScript.
 
 ## Ссылка на проект
 https://webdevartur.github.io/CaseLab_Cenzor/
