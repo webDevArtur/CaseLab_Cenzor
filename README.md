@@ -4,6 +4,9 @@
 ## Ссылка на проект
 https://webdevartur.github.io/CaseLab_Cenzor/
 
+![image](https://github.com/webDevArtur/CaseLab_Cenzor/assets/141954990/11ba81d4-39c3-4e3f-a176-23c2ea7dc877)
+
+
 ## Особенности
 
 - Замена неподходящих слов эвфемизмами в предложении.
